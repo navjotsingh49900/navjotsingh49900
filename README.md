@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <a href="https://www.youtube.com/channel/UCW2WO5j83U5Gi0rZCIKs3Mw" rel="noreferrer noopener" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Vnjvibhash" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/navjotsingh49900" rel="noreferrer noopener" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Vivekajee" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/navjotsingh27" rel="noreferrer noopener" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Vivekajee" height="30" width="40" /></a>
-<a href="https://leetcode.com/navjotsingh49900//" rel="noreferrer noopener" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Vivekajee" height="30" width="40" /></a>
+<a href="https://leetcode.com/navjotsingh49900/" rel="noreferrer noopener" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Vivekajee" height="30" width="40" /></a>
 </p>
 
 - 😄 Pronouns: ...
