@@ -32,11 +32,10 @@
   - 👯 I’m looking to collaborate on Data Analyst and Research Analyst<br>
   - 🤔 I’m looking for help with Research.<br>
   - 💬 Ask me about AI/ML & Reaserch Paper writing
+  - 📫 How to reach me: navjotsingh49900@gmail.com
   - 😄 Pronouns: He/His
-  - ⚡ Fun fact: 
+  - ⚡ Fun fact: 🎅
 </p>
-
-- 📫 How to reach me: ...
 
 ###
 ---
